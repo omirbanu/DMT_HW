@@ -8,10 +8,11 @@ The homework is composed of two parts: Search-Engine Evaluation and Near-Duplica
 ## DMT_HW_2
 The files are presented in current folder.
 
-    Part 1:
-    improving the performance of a recommendation-system by using non-trivial algorithms and also by performing hyper-parameters tuning
-
-    Part 2:
+    -Part 1:
+    improving the performance of a recommendation-system by using non-trivial algorithms and by performing 
+    hyper-parameters tuning
+    
+    -Part 2:
     implementing a recommendation/prediction method using the Topic-Sensitive-PageRank method.
 
 
