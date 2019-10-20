@@ -1,4 +1,4 @@
-# DMT_HW
+# DMT_HW_2
 HW of Data Mining Technology for Business and Society.
 
 Part 1:
